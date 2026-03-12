@@ -1,11 +1,27 @@
+# ElektrikPraha — Electrician Service Website
 
-  # Revamp Electrician Website
+> **Live: [elektrikar-praha.com](https://elektrikar-praha.com)** | [ivannaelectra.com](https://www.ivannaelectra.com)
 
-  This is a code bundle for Revamp Electrician Website. The original project is available at https://www.figma.com/design/gu7QwbHgP1bmPGYvNBwOG7/Revamp-Electrician-Website.
+Professional electrician service website for Prague — service catalog, online booking, and customer testimonials.
 
-  ## Running the code
+## Tech Stack
 
-  Run `npm i` to install the dependencies.
+- **React 18** + **TypeScript** + **Vite**
+- **Tailwind CSS** + **Radix UI** — accessible component library
+- **Vercel** — deployment
 
-  Run `npm run dev` to start the development server.
-  
+## Features
+
+- Service catalog with pricing
+- Online booking / contact form
+- Customer testimonials and reviews
+- Photo gallery of completed projects
+- SEO optimized for local search (Praha)
+- Fully responsive design
+
+## Development
+
+```bash
+npm install
+npm run dev
+```
